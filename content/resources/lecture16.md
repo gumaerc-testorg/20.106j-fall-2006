@@ -3,8 +3,13 @@ content_type: resource
 description: Lecture notes on microbial growth control, physical antimicrobial control,
   heat, radiation sterilization, filter sterilization, chemical control methods, and
   antimicrobials used in vivo.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-106j-systems-microbiology-fall-2006/fdbd2dbfec4f8a772ff431986d412a17_lecture16.pdf
+file: /media/courses/20-106j-systems-microbiology-fall-2006/fdbd2dbfec4f8a772ff431986d412a17_lecture16.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture16.pdf
 uid: fdbd2dbf-ec4f-8a77-2ff4-31986d412a17

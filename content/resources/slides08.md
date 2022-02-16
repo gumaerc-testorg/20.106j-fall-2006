@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture notes on regulation of cell activity.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-106j-systems-microbiology-fall-2006/c3109e46ee067265c285cd04bc805387_slides08.pdf
+file: /media/courses/20-106j-systems-microbiology-fall-2006/c3109e46ee067265c285cd04bc805387_slides08.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: slides08.pdf
 uid: c3109e46-ee06-7265-c285-cd04bc805387
