@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: cec563c6-079a-dc05-9704-064d6e9cc79a
 resourcetype: Document
 title: marx.pdf
 uid: 2d04a49d-45c4-556a-402f-aac9cb344dc3

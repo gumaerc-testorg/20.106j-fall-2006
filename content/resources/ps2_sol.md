@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: dd97f4fb-90fc-9d04-262c-e5f3bea3dc87
 resourcetype: Document
 title: ps2_sol.pdf
 uid: a68bd6c9-e86b-0d2a-d2c7-852ccf9da515
