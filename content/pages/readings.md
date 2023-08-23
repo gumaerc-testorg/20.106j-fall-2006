@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the course textbook, the schedule
+  of readings by lecture, and additional readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -189,7 +191,7 @@ Experimental Evolution: Optimization of Metabolic Systems
 Guest Lecturer, Prof. Christopher Marx from Harvard
 {{< tdclose >}}
 {{< tdopen >}}
-Marx, Christopher J., Stephen J. Van Dien, and Mary E. Lidstrom. "Flux Analysis Uncovers Key Role of Functional Redundancy in Formaldehyde Metabolism." _PLOS Biology_ 3 (2005): 244-253. ([PDF]({{< baseurl >}}/resources/marx))
+Marx, Christopher J., Stephen J. Van Dien, and Mary E. Lidstrom. "Flux Analysis Uncovers Key Role of Functional Redundancy in Formaldehyde Metabolism." _PLOS Biology_ 3 (2005): 244-253. ({{% resource_link 2d04a49d-45c4-556a-402f-aac9cb344dc3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -455,7 +457,7 @@ Jetten, Mike S. M., et al. "Microbiology and Application of the Anaerobic Ammoni
 
 Lovley, Derek R. "Bug Juice: Harvesting Electricity with Microorganisms." _Nature_ _Reviews Microbiology_ 4 (2006): 497-508.
 
-Marx, Christopher J., Stephen J. Van Dien, and Mary E. Lidstrom. "Flux Analysis Uncovers Key Role of Functional Redundancy in Formaldehyde Metabolism." _PLOS Biology_ 3 (2005): 244-253. ([PDF]({{< baseurl >}}/resources/marx))
+Marx, Christopher J., Stephen J. Van Dien, and Mary E. Lidstrom. "Flux Analysis Uncovers Key Role of Functional Redundancy in Formaldehyde Metabolism." _PLOS Biology_ 3 (2005): 244-253. ({{% resource_link 2d04a49d-45c4-556a-402f-aac9cb344dc3 "PDF" %}})
 
 Moran, Nancy A., Fordon R. Plague, Jonas P. Sandstro, and Jennifer L. Wilcox. "A Genomic Perspective on Nutrient Provisioning by Bacterial Symbionts of Insects." _PNAS_ 100 (2003): 14543-14548.
 
@@ -469,4 +471,4 @@ Santiago, F. Elena, and Richard E. Lenski. "Evolution Experiments with Microorga
 
 Tamas, Ivica, et al. "50 Million Years of Genomic Stasis in Endosymbiotic Bacteria." _Science_ 296 (2002): 2376-2379.
 
-Wu, Dongying, et al. "Metabolic Complementarity and Genomics of the Dual Bacterial Symbiosis of Sharpshooters." _PLOS Biology_ 4 (2006): 1079-1092. ([PDF - 1.0 MB]({{< baseurl >}}/resources/wu))
+Wu, Dongying, et al. "Metabolic Complementarity and Genomics of the Dual Bacterial Symbiosis of Sharpshooters." _PLOS Biology_ 4 (2006): 1079-1092. ({{% resource_link e27aad85-f9e2-4cbd-8f47-806d972b1c0a "PDF - 1.0 MB" %}})
