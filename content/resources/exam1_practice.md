@@ -2,6 +2,7 @@
 content_type: resource
 description: Practice exam questions for Exam 1.
 file: /courses/20-106j-systems-microbiology-fall-2006/d1f16363620bdc01f1e84c722a8e8f04_exam1_practice.pdf
+file_size: 112023
 file_type: application/pdf
 learning_resource_types:
 - Exams

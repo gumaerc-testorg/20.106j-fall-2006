@@ -4,6 +4,7 @@ description: Lecture notes on metabolic diversity, the global nitrogen cycle, ni
   fixation, plant microbial symbioses, and key processes and prokaryotes in the nitrogen
   cycle.
 file: /courses/20-106j-systems-microbiology-fall-2006/515b099ce866df86f82c31a5e9cfd8e6_lecture14.pdf
+file_size: 41173
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

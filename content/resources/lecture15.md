@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on environmental genomics and microbial ecology.
 file: /courses/20-106j-systems-microbiology-fall-2006/321fc8685efc64b55a167f5a28868a49_lecture15.pdf
+file_size: 35284
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

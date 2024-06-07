@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture slides on genetic exchange in bacteria.
 file: /courses/20-106j-systems-microbiology-fall-2006/a846498cd107ee6c2d5e73ee3f41c20f_slides09.pdf
+file_size: 765854
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
