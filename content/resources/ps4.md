@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set.
 file: /courses/20-106j-systems-microbiology-fall-2006/15c265ef4c9cd2ec0c078c1285e21f9c_ps4.pdf
+file_size: 27830
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture slides on Structure, Function, and Motility.
 file: /courses/20-106j-systems-microbiology-fall-2006/db18d6fc84b8925f9dad3427b0703833_slides02.pdf
+file_size: 2349662
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

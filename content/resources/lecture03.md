@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on Biological Energy Conservation.
 file: /courses/20-106j-systems-microbiology-fall-2006/333902e121321b4d10bedd4a2b65178e_lecture03.pdf
+file_size: 66229
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

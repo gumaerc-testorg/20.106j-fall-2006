@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on metabolic diversity, genome evolution and ecology, and
   mechanisms and consequences of lateral gene transfer.
 file: /courses/20-106j-systems-microbiology-fall-2006/650a6201d3059905c6bafd2f9e08a958_lecture13.pdf
+file_size: 35128
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: Lecture notes on metabolic regulation, basic modes of energy genera
   thermodynamics of growth, and applications of microbial chemolithotrophy and anaerobic
   respiration.
 file: /courses/20-106j-systems-microbiology-fall-2006/56047e7cff47d3f458ec5bee6e41a26a_lecture05.pdf
+file_size: 63983
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

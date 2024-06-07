@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on genomics, DNA sequencing, and microbial genomes.
 file: /courses/20-106j-systems-microbiology-fall-2006/eccead12e78f03b5822d27c936de6f97_lecture11.pdf
+file_size: 33748
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on Animal- and Arthropod-transmitted Diseases.
 file: /courses/20-106j-systems-microbiology-fall-2006/5b7a90b676fec6f31b5ed683d83cc214_lecture23.pdf
+file_size: 34960
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

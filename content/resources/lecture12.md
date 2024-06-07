@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on genomics.
 file: /courses/20-106j-systems-microbiology-fall-2006/263df4c15d935b95e0bfd8d00bc5e6c8_lecture12.pdf
+file_size: 28140
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
