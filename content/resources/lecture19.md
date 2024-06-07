@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on immunology, immune response, categories of immunity,
   immunization, and immune-related disorders.
 file: /courses/20-106j-systems-microbiology-fall-2006/e2387ecafa3e6ccea8e6080e2a9610c9_lecture19.pdf
+file_size: 37480
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

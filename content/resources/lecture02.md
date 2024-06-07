@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on Cell Structure and Function.
 file: /courses/20-106j-systems-microbiology-fall-2006/4ead3e955a50610c81b8c73cce411367_lecture02.pdf
+file_size: 55951
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

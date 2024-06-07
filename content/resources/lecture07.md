@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on information flow in biological systems.
 file: /courses/20-106j-systems-microbiology-fall-2006/0181737fe5b6297557775bda89632fd1_lecture07.pdf
+file_size: 40927
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

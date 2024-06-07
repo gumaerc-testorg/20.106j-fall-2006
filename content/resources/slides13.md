@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture slides on genome evolution and ecology, genomics of endosymbionts,
   and environmental genomics.
 file: /courses/20-106j-systems-microbiology-fall-2006/4240b8b85a6e8272729bec0b1dc58861_slides13.pdf
+file_size: 929860
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

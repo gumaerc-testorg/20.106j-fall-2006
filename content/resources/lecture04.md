@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on Microbial Growth.
 file: /courses/20-106j-systems-microbiology-fall-2006/4641406497ed4cb2255b00e6be0fa3ec_lecture04.pdf
+file_size: 34840
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

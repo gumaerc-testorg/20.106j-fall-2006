@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on regulation of cell activity.
 file: /courses/20-106j-systems-microbiology-fall-2006/c3109e46ee067265c285cd04bc805387_slides08.pdf
+file_size: 1630217
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

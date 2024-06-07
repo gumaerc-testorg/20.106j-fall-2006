@@ -449,7 +449,7 @@ Other Readings
 
 Backhed, Fredrik, et al. "Host-Bacterial Mutualism in the Human Intestine." _Science_ 307 (2005): 1915-1920.
 
-Berg, Howard. "{{% resource_link "951c5fd9-a5d9-49dd-8489-f52a8a9c537e" "Motile Behavior of Bacteria" %}}." _Physics Today_ on the Web (January 2000).
+Berg, Howard. "[Motile Behavior of Bacteria](https://doi.org/10.1063/1.882934)." _Physics Today_ on the Web (January 2000).
 
 Galan, Jorge E., and Hans Wolf-Watz. "Protein Delivery into Eukaryotic Cells by Type III Secretion Machines." _Nature_ 444 (2006): 567-573.
 

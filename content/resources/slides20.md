@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture slides on toxins and diagnostic microbiology.
 file: /courses/20-106j-systems-microbiology-fall-2006/d924ab516de94262a6f4d59c3270d1fc_slides20.pdf
+file_size: 400415
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
