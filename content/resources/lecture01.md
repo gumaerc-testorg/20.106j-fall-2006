@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on the Early Earth and Microbial Evolution.
-file: /courses/20-106j-systems-microbiology-fall-2006/170e9d0c63bb641f037181594682a2b4_lecture01.pdf
+file: /ol-ocw-studio-app/courses/20-106j-systems-microbiology-fall-2006/170e9d0c63bb641f037181594682a2b4_lecture01.pdf
 file_size: 114150
 file_type: application/pdf
 learning_resource_types:

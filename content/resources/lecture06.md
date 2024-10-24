@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on virology, properties of viruses, viral growth, viral
   replication, and viral structure.
-file: /courses/20-106j-systems-microbiology-fall-2006/b9ac4b601c3a9c4153da08c0233d8b12_lecture06.pdf
+file: /ol-ocw-studio-app/courses/20-106j-systems-microbiology-fall-2006/b9ac4b601c3a9c4153da08c0233d8b12_lecture06.pdf
 file_size: 38733
 file_type: application/pdf
 learning_resource_types:

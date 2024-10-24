@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on animal and arthropod-transmitted diseases.
-file: /courses/20-106j-systems-microbiology-fall-2006/0ea0c1b3bcb89bd69bd7e80e60201067_slides23.pdf
+file: /ol-ocw-studio-app/courses/20-106j-systems-microbiology-fall-2006/0ea0c1b3bcb89bd69bd7e80e60201067_slides23.pdf
 file_size: 633576
 file_type: application/pdf
 learning_resource_types:

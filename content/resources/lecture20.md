@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on diagnostic microbiology, toxins, cytolysins, A-B toxin,
   enterotoxin, superantigen, and culture and isolation.
-file: /courses/20-106j-systems-microbiology-fall-2006/7058a386c6d15b1d410dbc15ed773d84_lecture20.pdf
+file: /ol-ocw-studio-app/courses/20-106j-systems-microbiology-fall-2006/7058a386c6d15b1d410dbc15ed773d84_lecture20.pdf
 file_size: 39823
 file_type: application/pdf
 learning_resource_types:
