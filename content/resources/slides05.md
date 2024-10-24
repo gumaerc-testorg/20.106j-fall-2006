@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on Bioenergetics and Metabolic Diversity.
-file: /courses/20-106j-systems-microbiology-fall-2006/34d40b113145c18ac658d9c601321747_slides05.pdf
+file: /ol-ocw-studio-app/courses/20-106j-systems-microbiology-fall-2006/34d40b113145c18ac658d9c601321747_slides05.pdf
 file_size: 1676274
 file_type: application/pdf
 learning_resource_types:

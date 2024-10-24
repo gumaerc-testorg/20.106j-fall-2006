@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on microbial growth.
-file: /courses/20-106j-systems-microbiology-fall-2006/4819cf0288963a0864fdf86fe12b9f6e_slides04.pdf
+file: /ol-ocw-studio-app/courses/20-106j-systems-microbiology-fall-2006/4819cf0288963a0864fdf86fe12b9f6e_slides04.pdf
 file_size: 514617
 file_type: application/pdf
 learning_resource_types:
