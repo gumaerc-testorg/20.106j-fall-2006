@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes with a review for the final exam.
-file: /courses/20-106j-systems-microbiology-fall-2006/caa5f5a8a6a76bbc47a0c730e394f717_lecture24.pdf
+file: /ol-ocw-studio-app/courses/20-106j-systems-microbiology-fall-2006/caa5f5a8a6a76bbc47a0c730e394f717_lecture24.pdf
 file_size: 37397
 file_type: application/pdf
 learning_resource_types:

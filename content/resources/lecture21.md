@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on person-to-person transmission, tuberculosis, influenza,
   and helicobacter pylori.
-file: /courses/20-106j-systems-microbiology-fall-2006/90553cda32aed1faf144d347acea5f2c_lecture21.pdf
+file: /ol-ocw-studio-app/courses/20-106j-systems-microbiology-fall-2006/90553cda32aed1faf144d347acea5f2c_lecture21.pdf
 file_size: 43589
 file_type: application/pdf
 learning_resource_types:
