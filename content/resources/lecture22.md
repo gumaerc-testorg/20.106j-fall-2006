@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on epidemiology, transmission, clinical disease progression,
   epidemics, eradication and elimination, and control measures.
-file: /ol-ocw-studio-app/courses/20-106j-systems-microbiology-fall-2006/4f71336667d483822ce8d369331d0c88_lecture22.pdf
+file: /courses/20-106j-systems-microbiology-fall-2006/4f71336667d483822ce8d369331d0c88_lecture22.pdf
 file_size: 37762
 file_type: application/pdf
 learning_resource_types:

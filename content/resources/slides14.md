@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on metabolic diversity, the global nitrogen cycle, nitrogen
   fixation, and plant microbial symbiosis.
-file: /ol-ocw-studio-app/courses/20-106j-systems-microbiology-fall-2006/fcc2105e34fd77250eb0236cff9c9a31_slides14.pdf
+file: /courses/20-106j-systems-microbiology-fall-2006/fcc2105e34fd77250eb0236cff9c9a31_slides14.pdf
 file_size: 2209485
 file_type: application/pdf
 learning_resource_types:
