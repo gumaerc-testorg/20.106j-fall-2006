@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set solutions.
-file: /ol-ocw-studio-app/courses/20-106j-systems-microbiology-fall-2006/cafcac6c3a4d4627ead5fd18118a318a_ps3_sol.pdf
+file: /courses/20-106j-systems-microbiology-fall-2006/cafcac6c3a4d4627ead5fd18118a318a_ps3_sol.pdf
 file_size: 43449
 file_type: application/pdf
 learning_resource_types:

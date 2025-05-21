@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on genomics, DNA sequencing technology, genome sequencing
   technology, current statistics, and the basics of genome sequence analysis.
-file: /ol-ocw-studio-app/courses/20-106j-systems-microbiology-fall-2006/45e953c967ca949a4f440e6c273c085b_slides11.pdf
+file: /courses/20-106j-systems-microbiology-fall-2006/45e953c967ca949a4f440e6c273c085b_slides11.pdf
 file_size: 874585
 file_type: application/pdf
 learning_resource_types:

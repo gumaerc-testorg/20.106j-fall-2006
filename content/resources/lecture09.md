@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on genetic exchange in bacteria, homologous recombination,
   transformation, plasmids and conjugation, transposable elements, and transduction
   (virus mediated exchange).
-file: /ol-ocw-studio-app/courses/20-106j-systems-microbiology-fall-2006/c3e58321a19b483be8ec81d5b4cd656c_lecture09.pdf
+file: /courses/20-106j-systems-microbiology-fall-2006/c3e58321a19b483be8ec81d5b4cd656c_lecture09.pdf
 file_size: 33975
 file_type: application/pdf
 learning_resource_types:

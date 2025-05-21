@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on immunology, innate immunity and inflammation, cells
   of the immune system, healing, and adaptive immunity.
-file: /ol-ocw-studio-app/courses/20-106j-systems-microbiology-fall-2006/12b7c1193be539ead680d6fbc2c638c4_lecture18.pdf
+file: /courses/20-106j-systems-microbiology-fall-2006/12b7c1193be539ead680d6fbc2c638c4_lecture18.pdf
 file_size: 24565
 file_type: application/pdf
 learning_resource_types:
