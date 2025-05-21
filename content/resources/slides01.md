@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on the Early Earth and Microbial Evolution.
-file: /ol-ocw-studio-app/courses/20-106j-systems-microbiology-fall-2006/2d3e1d4c074482aebf2a51906ac7124e_slides01.pdf
+file: /courses/20-106j-systems-microbiology-fall-2006/2d3e1d4c074482aebf2a51906ac7124e_slides01.pdf
 file_size: 2542940
 file_type: application/pdf
 learning_resource_types:

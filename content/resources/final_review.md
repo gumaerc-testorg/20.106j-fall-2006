@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides from a review session for the Final Exam.
-file: /ol-ocw-studio-app/courses/20-106j-systems-microbiology-fall-2006/126887f266537e9e97af2849d0001b6f_final_review.pdf
+file: /courses/20-106j-systems-microbiology-fall-2006/126887f266537e9e97af2849d0001b6f_final_review.pdf
 file_size: 7215601
 file_type: application/pdf
 learning_resource_types:

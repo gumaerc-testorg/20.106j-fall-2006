@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on innate immunity and inflammation, cells and organs
   of the immune system, signals, chemokines, cytokines, and adaptive immune response.
-file: /ol-ocw-studio-app/courses/20-106j-systems-microbiology-fall-2006/b88d6f53e3b2789035d07ab44735b6a9_slides18.pdf
+file: /courses/20-106j-systems-microbiology-fall-2006/b88d6f53e3b2789035d07ab44735b6a9_slides18.pdf
 file_size: 3549043
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on Bioenergetics and Physiological Diversity.
-file: /ol-ocw-studio-app/courses/20-106j-systems-microbiology-fall-2006/3229aa280a32ec7428114b1e0bd1f3a4_slides03.pdf
+file: /courses/20-106j-systems-microbiology-fall-2006/3229aa280a32ec7428114b1e0bd1f3a4_slides03.pdf
 file_size: 2183596
 file_type: application/pdf
 learning_resource_types:
