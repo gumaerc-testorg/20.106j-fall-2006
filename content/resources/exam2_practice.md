@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Practice exam questions for Exam 2.
-file: /courses/20-106j-systems-microbiology-fall-2006/15960803890fdcf7c775bba3188f182e_exam2_practice.pdf
+file: /ol-ocw-studio-app/courses/20-106j-systems-microbiology-fall-2006/15960803890fdcf7c775bba3188f182e_exam2_practice.pdf
 file_size: 12329
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on regulation of cell activity, translational control,
   and gene regulation in bacteria.
-file: /courses/20-106j-systems-microbiology-fall-2006/1d896f68e5522675e9497dd4f50e30ba_lecture08.pdf
+file: /ol-ocw-studio-app/courses/20-106j-systems-microbiology-fall-2006/1d896f68e5522675e9497dd4f50e30ba_lecture08.pdf
 file_size: 38862
 file_type: application/pdf
 learning_resource_types:
